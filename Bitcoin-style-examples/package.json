@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crypto-js": "^4.0.0",
-    "crypto.js": "^2.0.2"
+    "crypto-js": "file:crypto-js",
+    "crypto.js": "^2.0.2",
+    "elliptic": "^6.5.3"
   }
 }
